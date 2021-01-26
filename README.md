@@ -1,147 +1,356 @@
-## Hasan Ahmed
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
 
-<a href="https://drive.google.com/u/0/uc?id=1uhS3sm9mUFr2UB22Ob1pX49BwWTKx77J&export=download"><b>Download CV (.PDF)</b></a>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:.2in .3in .3in .3in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
 
-<img src="Images/rafsan.png" align="right" height="300" />
+</head>
 
-<p align="justify">I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
+<body lang=en-NL link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
 
-<p align="justify">I am a premium level graphic designer. I can design logo, banner, poster, brochure, businesscard, flyer, magazine, newsletter, and I am an Office365 expert. I want to express the power as an expert, in order to create benefits to the organization. Your organization/institution could trust me and I believe that you would not be mortified with my work.</p>
+<div class=WordSection1>
 
-### Educational Pursuit
+<p class=MsoNormal><span lang=EN-US style='font-size:340.0pt;line-height:107%;
+font-family:"Garamond",serif'>Hasan Ahmed</span></p>
 
-**Master of Science in Geo-information Science and Earth Observation**,<br/>
-[University of Twente, Enschede, The Netherlands ](https://www.itc.nl/)<br/>
-Session: 2019-20<br/>
-Passing Year: 2021 (Expected)<br/>
-**Dissertation:** _Yet to be decided_
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=738
+ style='width:553.25pt;border-collapse:collapse;border:none'>
+ <tr style='height:15.25pt'>
+  <td width=240 rowspan=10 valign=top style='width:179.75pt;padding:0in 5.4pt 0in 5.4pt;
+  height:15.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Details</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Boulevard 1945 4, </span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Enschede, 7511AE,</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>The Netherlands</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Mobile: +31633426216</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Email: hasan.sylh3t@gmail.com
+  </span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Website: </span><a
+  href="https://ahmedhasan.info"><span lang=EN-US style='font-family:"Garamond",serif;
+  color:windowtext'>https://ahmedhasan.info</span></a></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>LinkedIn: </span><a
+  href="https://studentsust-my.sharepoint.com/personal/hasan_student_sust_edu/Documents/www.linkedin.com/in/iamhasanahmed"><span
+  lang=EN-US style='font-family:"Garamond",serif;color:windowtext'>iamhasanahmed</span></a></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Skills</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Research experience on
+  Geographic Information Science (GIS) and Remote Sensing (RS) for Natural
+  Resources, Land Cover, and Change Detection.</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Relevant Remote Sensing
+  Skills:</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Satellite Image
+  Analysis</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Synthetic Aperture
+  RADAR (SAR)</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; UAV Remote Sensing</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; LiDAR Remote
+  Sensing</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Relevant Software Skills:</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; ArcGIS (Desktop,
+  Pro, Online)</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; ERDAS IMAGINE</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; QGIS</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; ENVI</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; ILWIS</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Agisoft Metashape</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Pix4D</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; eCognition</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Programming languages:</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Python</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; R</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Visual Basic</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Other Skills:</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Geodatabase
+  Management</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Geoportal
+  Management</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Web Development</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Adobe Illustrator</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Adobe Photoshop</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; Microsoft Office</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Awards/Honors</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Awarded for current MSc in Gro-information
+  Sciecne and Earth Observation Program:</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; ITC Excellence
+  Scholarship</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>   &#9679; The Holland Scholarship</span></p>
+  </td>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:15.25pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Career
+  Objective</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Garamond",serif'>Proactive
+  Geoinformation Science and Earth Observation major (8.36 CGPA) with
+  specialization on Natural Resources currently attending the University of
+  Twente, with 1.5+ years of work experience. Aiming to leverage a proven
+  knowledge of remote sensing, geoinformation science, and natural resources to
+  successfully build and grow a professional career in a relevant company.</span></p>
+  </td>
+ </tr>
+ <tr style='height:26.5pt'>
+  <td width=498 style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Experience</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:180.45pt'>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:180.45pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>Research Assistant (Remote)</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Centre for Ecology,
+  Environment, and Evolution, University of Lisbon, Portugal</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>January 2018 –
+  December 2018</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Garamond",serif'>Worked
+  on analyzing Landsat satellite images for land-cover change detection, conduct
+  fieldwork, draft and submit reports of works to the relevant researcher of
+  the doctoral program of Climate Change and Sustainable Development Policies.</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>Course Instructor</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Forestry Science and
+  Technology Institute, Sylhet</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>July 2017 –
+  January 2018</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Garamond",serif'>Professional
+  diploma course of Bangladesh Forest Department, Ministry of Environment,</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-size:10.0pt;line-height:115%;font-family:"Garamond",serif'>Forest
+  and Climate Change, only for forest bit officers or ranger. Taught Forest Silviculture,
+  GIS for Forestry, and Forest Inventory courses.</span></p>
+  </td>
+ </tr>
+ <tr style='height:27.4pt'>
+  <td width=498 style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;height:27.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Education</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:161.55pt'>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:161.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>MSc candidate Geo-information
+  Science and Earth Observation</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>University of Twente,
+  Enschede, The Netherlands</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>September 2019
+  – July 2021</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>CGPA 8.36
+  out of 10 (US Equivalent: 4.0 out of 4.0)</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>Scholarships:
+  ITC Excellence Scholarship, The Holland Scholarship</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>MSc in Forestry</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Shahjalal University of Science
+  and Technology, Sylhet, Bangladesh</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>March2016 – May
+  2018</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>CGPA 3.9 out
+  of 4.0</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>With
+  Distinction</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>BSc(Honours) in Forestry</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Shahjalal University of
+  Science and Technology, Sylhet, Bangladesh</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>January 2011 – March
+  2016</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>CGPA 3.52
+  out of 4.0</span></p>
+  </td>
+ </tr>
+ <tr style='height:24.7pt'>
+  <td width=498 style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;height:24.7pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Internship</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:43.6pt'>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:43.6pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>Intern</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Creative Conservation
+  Alliance, Dhaka, Bangladesh</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:115%'><span
+  lang=EN-US style='font-family:"Garamond",serif;color:#44546A'>October 2015 –
+  December 2015</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>Developed maps
+  of python species distribution in Bangladesh using GIS data.</span></p>
+  </td>
+ </tr>
+ <tr style='height:26.05pt'>
+  <td width=498 style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;height:26.05pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-size:14.0pt;font-family:"Garamond",serif;color:#4472C4'>Leaderships</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:37.75pt'>
+  <td width=498 valign=top style='width:373.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:37.75pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>Green Explore Society</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>President <span
+  style='color:#44546A'>(March 2014 - March 2015)</span></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Treasurer <span
+  style='color:#44546A'>(January 2013 – March 2014)</span></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>General Member <span
+  style='color:#44546A'>(January 2012 – January 2013)</span></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>A student
+  organization concerned for nature conservation and public awareness</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
+  lang=EN-US style='font-family:"Garamond",serif'>Golap-Bandhan Student
+  Association</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-family:"Garamond",serif'>Co-founder</span></p>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-US style='font-size:10.0pt;font-family:"Garamond",serif'>University
+  association for the students of a specific community in Sylhet, Bangladesh</span></p>
+  </td>
+ </tr>
+</table>
 
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
-**Master of Science with Distinction in Forestry from the Department of Forestry and Environmental Science**,<br/>
-[Shahjalal University of Science & Technology, Sylhet-3114](https://www.sust.edu/)<br/>
-Session: 2014-15<br/>
-Passing Year: 2015 (Exam held on: 2017)<br/>
-**Dissertation:** _Assessing spatio-temporal changes in forest structural attributes at Lawachara National Park, Bangladesh_
+</div>
 
-**Bachelor of Science(Honours) in Forestry from the Department of Forestry and Environmental Science**<br/>
-[Shahjalal University of Science & Technology, Sylhet-3114](https://www.sust.edu/)<br/>
-Session: 2010-11 (Exam held on: 2015)<br/>
-**Dissertation:** _Detecting tree richness hotspots using species area relationship to compare with land-covers and forest composition of Rema-Kalenga Wildlife Sanctuary, Habiganj, Bangladesh_
-
-**Higher Secondary Certificate (HSC) Examination**<br/>
-[Dhakadakshin Multiletaral High School and College, Sylhet](http://www.http://www.ddkmlhsc.edu.bd//)<br/>
-Session: 2008-09 (Exam held on: 2010)<br/>
-Group: Science, Board: Sylhet
-
-
-### Technical Skills
-**Remote Sensing & GIS Software:** ArcGIS, ERDAS Imagine, ILWIS, ENVI, QGIS, SNAP.<br/>
-**Photogramettry Software:** Pix4D, Agisoft Metashape. <br/>
-**Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.<br/>
-**Graphic Design Software:** Adobe Illustrator, Photoshop.<br/>
-**Statistical Analysis:** R, SPSS. <br/>
-
-
-### Professional Training / Development Program
-
-**Employer 1**<br/>
-From: October 1, 2018<br/>	
-To: January 31, 2019<br/>
-Position: Junior Consultant (GIS) for support to RIMS Unit<br/>
-Employer: [Bangladesh Forest Department](http://www.bforest.gov.bd/) (under SUFAL Project)<br/>
-_Major Duties performed:<br/>
-• Developed a process or framework for Site-Specific Planning for the project plantations in consultation with concerned Bangladesh Forest Department officials. <br/>
-•	Prepared sample Site-specific Plan (SSP) for Divisional Forest Offices by using Geospatial technologies,<br/>
-•	Conducted training on SSP at Divisional Forest offices for Range and Beat Officers.<br/>
-•	Assist development of monitoring framework for biophysical interventions (about 75,000 ha) under the auspices of SUFAL project._
-
-**Employer 2**<br/>
-From: November, 2016	<br/>
-To: September, 2018<br/>
-Position: Technical Expert, [Bangladesh Forest Inventory](http://bfis.bforest.gov.bd/bfi/)<br/>
-Employer: [Food and Agriculture Organization (FAO)](http://www.fao.org/bangladesh/en/)<br/>
-_Major Duties performed:<br/>
-• A key member of the National Forest Inventory Team and collected field data from all around the country. <br/>
-•	The project is implementing by Bangladesh Forest Department with the financial assistance of [USAID](https://www.usaid.gov/bd) and technical assistance from FAO of the United Nations and SilvaCarbon of the [USFS](https://www.fs.usda.gov/)._
-
-**Employer 3**<br/>
-From: February, 2013<br/>
-To: March, 2020<br/>
-Position: Graphic Design Expert<br/>
-Employer: Upwork<br/>
-_Major Duties performed:<br/>
-• A premium level Graphic Designer. <br/>
-• My expertise is expressed with skill, competence & knowledge to different graphic works. I am an Office365 expert also. <br/>
-•	I worked for around 220 tasks for around 100 clients.<br/>
-•	Portfolio link: ([Click Here](https://bit.ly/2GoGV5N))_
-
-**Employer 4**<br/>
-From: February, 2014	<br/>
-To: February, 2014<br/>
-Position: Data Collector<br/>
-Employer: International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh))<br/>
-_Major Duties performed:<br/>
-Collected forest oriented vegetation data from the project area for “Volume Survey of Plantation for Harvesting Initiatives in Tanguar Haor Project._
-
-**Employer 5**<br/>
-From: December 11, 2012	<br/>
-To: December 20, 2012<br/>
-Position: Data Collector<br/>
-Employer: International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh))<br/>
-_Major Duties performed:<br/>
-Collected community oriented data in the rural areas for “Baseline Study of Community Based Sustainable Management of Tanguar Haor Project._
-
-### Other Training
-
-**July 22, 2017 to April 21, 2018 (3 Phases)**<br/>
-Training on **“Capacity building for remote sensing and GIS researchers on the use of UAV (Unmanned Aerial Vehicle) images and its application in natural resource management",** <br/>
-Conducted by, Faculty of Geo-Information Science and Earth Observation ([ITC](https://www.itc.nl/)), organized by Bangladesh Centre for Advance Studies ([BCAS](http://www.bcas.net/)).
-
-**September 2 to September 5, 2013**<br/>
-Training on **“SPSS and MATLAB”**<br/>
-Conducted by, “Department of Forestry and Environmental Science, Shahjalal University of Science and Technology, Sylhet.”
-
-**December 5, 2012**<br/>
-Workshop on **“Birds of Tanguar Haor; Species Diversity, Habitat Utilization & Conservation Initiatives through Local Community”,** <br/>
-Conducted by, International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh)).
-
-### Internship Training
-Took part on four weeks internship at **Citrus Research Station, Jaintapur, Sylhet**
-
-### Language Proficiency
-Bengali: Excellent in speaking, reading, listening and writing<br/>
-English: Excellent in speaking, reading, listening and writing
-
-### Membership
-(1) Lifetime Member, Green Explore Society<br/>
-A non-political, student oriented, nature and environment based organization.
-
-(2) Life Member, and Office Secretary (Running), Executive Committee-1<br/>
-JCPSC Alumni Association<br/>
-A ex student's forum from the Jalalabad Cantonment Public School and College.
-
-(3) Member, Institute of Foresters, Bangladesh<br/>
-A forum for all the forestry graduates from Bangladesh since the past.
-
-### Personal Information
-
-Father’s Name: Mashuk Ahmed<br/>
-Mother’s Name: Shaika Begum<br/>
-Date of Birth: December 31, 1991<br/>
-Nationality: Bangladeshi<br/>
-Religion:	Islam<br/>
-Marital Status: Single<br/>
-Permanent Address: House No: 82, Dakkhin Kanishail, Dhakadakshin, Golapganj, Sylhet -3161 ([_Click Here_](https://goo.gl/maps/GiYReLc7HfxQ5ByT6))
-
-
-**Click Below For Portfolio Links**<br/>
-[Facebook ↗](https://www.facebook.com/IAmHasanAhmed)<br/>
-[Twitter ↗](https://twitter.com/IAmHasanAhmed)<br/>
-[LinkedIn ↗](https://www.linkedin.com/in/iamhasanahmed/)<br/>
-
-
-**Click Below To Contact**<br/>
-[Email ↗](mailto:contact@ahmedhasan.info)<br/>
-[Mobile (NL) ↗](tel:+31633426216)<br/>
-[Mobile (BD) ↗](tel:+8801723167736)<br/>
-
+</body>
